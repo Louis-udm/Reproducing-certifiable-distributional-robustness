@@ -1,4 +1,4 @@
-# Reproducing <Certifying Some Distributional Robustness with Principled Adversarial Training>
+# Reproducing "Certifying Some Distributional Robustness with Principled Adversarial Training"
 > Zhibin LU, Xiao Fan
 ***
 We reproduced the paper "Certifying Some Distributional Robustness with Principled Adversarial Training" [SND17]. (https://arxiv.org/abs/1710.10571).
